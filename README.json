@@ -1,7 +1,944 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ViFM, Video",
+          "description": "InternVideo2: Scaling Video Foundation Models for Multimodal Video Understanding ArXiv, GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 776899311,
+            "language": "Python",
+            "last_commit": "2026-07-19T04:27:36Z",
+            "owner": "OpenGVLab",
+            "repo": "VideoChat-Flash",
+            "stars": 528
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VLM",
+          "description": "MoE-LLaVA: Mixture of Experts for Large Vision-Language Models ArXiv, GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 731413021,
+            "language": "Python",
+            "last_commit": "2025-07-15T07:59:33Z",
+            "owner": "PKU-YuanGroup",
+            "repo": "MoE-LLaVA",
+            "stars": 2322
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Survey",
+          "description": "Efficient Large Language Models: A Survey ArXiv, GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 629520282,
+            "language": null,
+            "last_commit": "2025-06-23T01:57:02Z",
+            "owner": "AIoT-MLSys-Lab",
+            "repo": "Efficient-LLMs-Survey",
+            "stars": 1257
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Segmentation",
+          "description": "SEEM: Segment Everything Everywhere All at Once ArXiv, GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 626753204,
+            "language": "Python",
+            "last_commit": "2024-08-19T08:01:54Z",
+            "owner": "UX-Decoder",
+            "repo": "Segment-Everything-Everywhere-All-At-Once",
+            "stars": 4795
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Package",
+          "description": "LlamaIndex GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 560704231,
+            "language": "Python",
+            "last_commit": "2026-08-20T15:46:41Z",
+            "owner": "run-llama",
+            "repo": "llama_index",
+            "stars": 51840
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Package",
+          "description": "LangChain GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 552661142,
+            "language": "Python",
+            "last_commit": "2026-08-24T14:31:31Z",
+            "owner": "langchain-ai",
+            "repo": "langchain",
+            "stars": 144894
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Package",
+          "description": "h2oGPT GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 618613272,
+            "language": "Python",
+            "last_commit": "2025-10-09T23:30:01Z",
+            "owner": "h2oai",
+            "repo": "h2ogpt",
+            "stars": 11969
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Package",
+          "description": "Dify GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 626805178,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T14:32:09Z",
+            "owner": "langgenius",
+            "repo": "dify",
+            "stars": 153368
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Package",
+          "description": "Alpaca-LoRA GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 613591358,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-07-29T13:37:49Z",
+            "owner": "tloen",
+            "repo": "alpaca-lora",
+            "stars": 18908
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Package",
+          "description": "unsloth GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 725205304,
+            "language": "Python",
+            "last_commit": "2026-08-24T14:29:30Z",
+            "owner": "unslothai",
+            "repo": "unsloth",
+            "stars": 74586
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Package",
+          "description": "Instructor: Structured LLM Outputs GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 653589102,
+            "language": "Python",
+            "last_commit": "2026-08-09T14:55:49Z",
+            "owner": "567-labs",
+            "repo": "instructor",
+            "stars": 13774
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Math, Reasoning",
+          "description": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models ArXiv, GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 752957295,
+            "language": "Python",
+            "last_commit": "2024-04-15T07:55:37Z",
+            "owner": "deepseek-ai",
+            "repo": "DeepSeek-Math",
+            "stars": 3431
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LLM, Open-source",
+          "description": "A self-hosted, offline, ChatGPT-like chatbot, powered by Llama 2. 100% private, with no data leaving your device. GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 669601481,
+            "language": "TypeScript",
+            "last_commit": "2024-04-23T18:56:06Z",
+            "owner": "getumbrel",
+            "repo": "llama-gpt",
+            "stars": 10939
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Evaluation",
+          "description": "simple-evals GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 785446833,
+            "language": "Python",
+            "last_commit": "2026-04-22T22:16:18Z",
+            "owner": "openai",
+            "repo": "simple-evals",
+            "stars": 4610
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Embodied, Reasoning, Robot",
+          "description": "Natural Language as Policies: Reasoning for Coordinate-Level Embodied Control with LLMs ArXiv, GitHub 2024/03/20",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 775238176,
+            "language": null,
+            "last_commit": "2024-03-25T06:38:20Z",
+            "owner": "shure-dev",
+            "repo": "natural-langauge-as-policies",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Datatset",
+          "description": "PRM800K: A Process Supervision Dataset GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 627639944,
+            "language": "Python",
+            "last_commit": "2023-06-01T17:41:14Z",
+            "owner": "openai",
+            "repo": "prm800k",
+            "stars": 2150
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Repo, VLM",
+          "description": "awesome-vlm-architectures GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 758120111,
+            "language": "Markdown",
+            "last_commit": "2026-07-31T21:58:54Z",
+            "owner": "gokayfem",
+            "repo": "awesome-vlm-architectures",
+            "stars": 1305
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Repo, Survey",
+          "description": "LLMSurvey GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 613731840,
+            "language": "Python",
+            "last_commit": "2025-03-11T09:51:42Z",
+            "owner": "RUCAIBox",
+            "repo": "LLMSurvey",
+            "stars": 12205
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Repo, Robot",
+          "description": "Awesome-LLM-Robotics GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 524119789,
+            "language": null,
+            "last_commit": "2026-07-17T20:28:18Z",
+            "owner": "GT-RIPL",
+            "repo": "Awesome-LLM-Robotics",
+            "stars": 4455
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Repo, Reasoning",
+          "description": "Awesome LLM Reasoning GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 562071276,
+            "language": null,
+            "last_commit": "2026-04-20T00:57:27Z",
+            "owner": "atfortes",
+            "repo": "Awesome-LLM-Reasoning",
+            "stars": 3675
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Repo, Reasoning",
+          "description": "Awesome-Reasoning-Foundation-Models GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 721539172,
+            "language": null,
+            "last_commit": "2025-06-16T10:08:45Z",
+            "owner": "reasoning-survey",
+            "repo": "Awesome-Reasoning-Foundation-Models",
+            "stars": 655
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Repo, RLHF, Reinforcement-Learning",
+          "description": "Awesome RLHF (RL with Human Feedback) GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 601100396,
+            "language": null,
+            "last_commit": "2026-05-20T12:56:15Z",
+            "owner": "opendilab",
+            "repo": "awesome-RLHF",
+            "stars": 4423
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Repo, Perception, VLM",
+          "description": "Awesome Vision-Language Navigation GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 217827601,
+            "language": null,
+            "last_commit": "2024-04-17T08:11:28Z",
+            "owner": "daqingliu",
+            "repo": "awesome-vln",
+            "stars": 236
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Repo, Package",
+          "description": "Awesome LLMOps GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 481805419,
+            "language": "Shell",
+            "last_commit": "2026-05-21T09:12:50Z",
+            "owner": "tensorchord",
+            "repo": "Awesome-LLMOps",
+            "stars": 5919
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Repo, Multimodal",
+          "description": "Awesome-Multimodal-LLM GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 652129018,
+            "language": null,
+            "last_commit": "2026-07-03T11:47:02Z",
+            "owner": "Atomic-man007",
+            "repo": "Awesome_Multimodel_LLM",
+            "stars": 378
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Repo, Multimodal",
+          "description": "Awesome-Multimodal-Large-Language-Models GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 642642539,
+            "language": null,
+            "last_commit": "2026-08-21T16:19:20Z",
+            "owner": "BradyFU",
+            "repo": "Awesome-Multimodal-Large-Language-Models",
+            "stars": 17988
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Repo, Math, Science",
+          "description": "Awesome Scientific Language Models GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 739217887,
+            "language": null,
+            "last_commit": "2025-06-21T11:59:38Z",
+            "owner": "yuzhimanhua",
+            "repo": "Awesome-Scientific-Language-Models",
+            "stars": 663
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Repo, LLM, Vision",
+          "description": "LLM-in-Vision GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 612329673,
+            "language": null,
+            "last_commit": "2025-03-08T06:31:18Z",
+            "owner": "DirtyHarryLYL",
+            "repo": "LLM-in-Vision",
+            "stars": 870
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Repo, LLM, VLM",
+          "description": "Multimodal & Large Language Models GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 529954479,
+            "language": null,
+            "last_commit": "2026-05-21T19:17:08Z",
+            "owner": "Yangyi-Chen",
+            "repo": "Multimodal-AND-Large-Language-Models",
+            "stars": 760
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Repo, LLM, Survey",
+          "description": "Awesome-LLM-Survey GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 693180980,
+            "language": null,
+            "last_commit": "2025-05-25T15:23:26Z",
+            "owner": "AiHubCN",
+            "repo": "Awesome-LLM-Survey",
+            "stars": 444
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Repo, LLM, Robot",
+          "description": "Everything-LLMs-And-Robotics GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 638811415,
+            "language": null,
+            "last_commit": "2024-07-14T15:16:29Z",
+            "owner": "jrin771",
+            "repo": "Everything-LLMs-And-Robotics",
+            "stars": 849
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Repo, LLM, Leaderboard",
+          "description": "LLM-Leaderboard GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 637379793,
+            "language": "Python",
+            "last_commit": "2024-08-23T20:09:41Z",
+            "owner": "LudwigStumpp",
+            "repo": "llm-leaderboard",
+            "stars": 306
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Repo, LLM",
+          "description": "Awesome-LLM GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 603049672,
+            "language": null,
+            "last_commit": "2025-07-31T02:38:24Z",
+            "owner": "Hannibal046",
+            "repo": "Awesome-LLM",
+            "stars": 27279
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Repo, Korean",
+          "description": "awesome-korean-llm GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 678896411,
+            "language": null,
+            "last_commit": "2023-10-31T10:35:42Z",
+            "owner": "NomaDamas",
+            "repo": "awesome-korean-llm",
+            "stars": 482
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Repo, Japanese, LLM",
+          "description": "日本語LLMまとめ GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 664157329,
+            "language": "TypeScript",
+            "last_commit": "2026-08-22T09:03:54Z",
+            "owner": "llm-jp",
+            "repo": "awesome-japanese-llm",
+            "stars": 1426
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Repo, In-Context-Learning",
+          "description": "Paper List for In-context Learning GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 581380809,
+            "language": null,
+            "last_commit": "2024-10-08T09:18:01Z",
+            "owner": "dqxiu",
+            "repo": "ICL_PaperList",
+            "stars": 874
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Repo, IROS, Robot",
+          "description": "IROS2023PaperList GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 706392465,
+            "language": null,
+            "last_commit": "2023-10-17T21:26:48Z",
+            "owner": "gonultasbu",
+            "repo": "IROS2023PaperList",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Repo, Hallucination, Survey",
+          "description": "A Survey on Hallucination in Large Language Models: Principles, Taxonomy, Challenges, and Open Questions ArXiv, GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 665353423,
+            "language": null,
+            "last_commit": "2024-03-11T12:49:15Z",
+            "owner": "LuckyyySTA",
+            "repo": "Awesome-LLM-hallucination",
+            "stars": 338
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Repo, Embodied",
+          "description": "Awesome Embodied Vision GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 277348364,
+            "language": null,
+            "last_commit": "2025-06-13T18:55:49Z",
+            "owner": "ChanganVR",
+            "repo": "awesome-embodied-vision",
+            "stars": 706
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Repo, Diffusion",
+          "description": "Awesome-Diffusion-Models GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 407722319,
+            "language": "HTML",
+            "last_commit": "2024-08-01T07:11:20Z",
+            "owner": "diff-usion",
+            "repo": "Awesome-Diffusion-Models",
+            "stars": 12363
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Repo, Compress",
+          "description": "Awesome LLM Compression GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 647138126,
+            "language": null,
+            "last_commit": "2026-06-30T15:26:46Z",
+            "owner": "HuangOwen",
+            "repo": "Awesome-LLM-Compression",
+            "stars": 1864
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Repo, Chinese",
+          "description": "Awesome-Chinese-LLM GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 643916827,
+            "language": null,
+            "last_commit": "2026-05-10T05:03:06Z",
+            "owner": "AiHubCN",
+            "repo": "Awesome-Chinese-LLM",
+            "stars": 22752
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Repo, Chain-of-Thought",
+          "description": "Chain-of-ThoughtsPapers GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 478392650,
+            "language": null,
+            "last_commit": "2023-10-05T04:47:20Z",
+            "owner": "Timothyxxx",
+            "repo": "Chain-of-ThoughtsPapers",
+            "stars": 2103
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Agent-Project, Code-LLM",
+          "description": "open-interpreter GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 666299222,
+            "language": "Rust",
+            "last_commit": "2026-08-20T03:35:38Z",
+            "owner": "openinterpreter",
+            "repo": "openinterpreter",
+            "stars": 68131
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Agent, Soft-Dev",
+          "description": "Communicative Agents for Software Development GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 683892956,
+            "language": "Python",
+            "last_commit": "2026-07-24T08:01:27Z",
+            "owner": "OpenBMB",
+            "repo": "ChatDev",
+            "stars": 34113
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Agent, Robot, Survey",
+          "description": "A Survey on LLM-based Autonomous Agents GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 674158658,
+            "language": null,
+            "last_commit": "2025-02-20T00:59:30Z",
+            "owner": "Paitesanshi",
+            "repo": "LLM-Agent-Survey",
+            "stars": 2911
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Agent, MobileApp",
+          "description": "You Only Look at Screens: Multimodal Chain-of-Action Agents ArXiv, GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 694036243,
+            "language": "Python",
+            "last_commit": "2024-07-16T04:46:04Z",
+            "owner": "cooelf",
+            "repo": "Auto-GUI",
+            "stars": 263
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Agent, GUI",
+          "description": "ScreenAgent: A Computer Control Agent Driven by Visual Language Large Model GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 743418723,
+            "language": "Python",
+            "last_commit": "2024-11-25T02:51:51Z",
+            "owner": "niuzaisheng",
+            "repo": "ScreenAgent",
+            "stars": 612
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Agent, Embodied",
+          "description": "OpenAgents: An Open Platform for Language Agents in the Wild ArXiv, GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 676028871,
+            "language": "Python",
+            "last_commit": "2024-11-18T09:39:29Z",
+            "owner": "xlang-ai",
+            "repo": "OpenAgents",
+            "stars": 4858
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Agent, Awesome Repo, LLM",
+          "description": "Awesome-Embodied-Agent-with-LLMs GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 668159220,
+            "language": null,
+            "last_commit": "2026-08-14T13:55:45Z",
+            "owner": "zchoi",
+            "repo": "Awesome-Embodied-Robotics-and-Agent",
+            "stars": 1856
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Agent, Awesome Repo, LLM",
+          "description": "CoALA: Awesome Language Agents ArXiv, GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 661942912,
+            "language": "TeX",
+            "last_commit": "2025-01-16T19:58:19Z",
+            "owner": "ysymyth",
+            "repo": "awesome-language-agents",
+            "stars": 1250
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Agent, Awesome Repo, Embodied, Grounding",
+          "description": "XLang Paper Reading GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 663989514,
+            "language": null,
+            "last_commit": "2024-04-29T04:23:11Z",
+            "owner": "xlang-ai",
+            "repo": "xlang-paper-reading",
+            "stars": 365
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Agent, Awesome Repo",
+          "description": "Awesome AI Agents GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 655459367,
+            "language": null,
+            "last_commit": "2026-08-21T18:52:45Z",
+            "owner": "e2b-dev",
+            "repo": "awesome-ai-agents",
+            "stars": 29650
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Agent, Awesome Repo",
+          "description": "Autonomous Agents GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 692466689,
+            "language": null,
+            "last_commit": "2026-06-24T17:03:27Z",
+            "owner": "tmgthb",
+            "repo": "Autonomous-Agents",
+            "stars": 1370
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Agent, Awesome Repo",
+          "description": "Awesome Large Multimodal Agents GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 749300380,
+            "language": null,
+            "last_commit": "2024-09-25T12:56:24Z",
+            "owner": "jun0wanan",
+            "repo": "awesome-large-multimodal-agents",
+            "stars": 497
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Agent, Awesome Repo",
+          "description": "LLM Agents Papers GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 642759375,
+            "language": null,
+            "last_commit": "2026-07-27T00:29:18Z",
+            "owner": "zjunlp",
+            "repo": "LLMAgentPapers",
+            "stars": 3107
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Agent, Awesome Repo",
+          "description": "Awesome LLM-Powered Agent GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 670475494,
+            "language": null,
+            "last_commit": "2025-04-30T03:42:08Z",
+            "owner": "hyp1231",
+            "repo": "awesome-llm-powered-agent",
+            "stars": 2253
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Agent",
+          "description": "Agents: An Open-source Framework for Autonomous Language Agents ArXiv, GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 667645956,
+            "language": "Python",
+            "last_commit": "2024-09-26T03:12:53Z",
+            "owner": "aiwaves-cn",
+            "repo": "agents",
+            "stars": 5957
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Agent",
+          "description": "AutoAgents: A Framework for Automatic Agent Generation GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 681168020,
+            "language": "Python",
+            "last_commit": "2025-09-09T21:06:56Z",
+            "owner": "OWD-AI",
+            "repo": "AutoAgents",
+            "stars": 1493
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Agent",
+          "description": "swarms GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 639195966,
+            "language": "Python",
+            "last_commit": "2026-08-24T13:56:42Z",
+            "owner": "kyegomez",
+            "repo": "swarms",
+            "stars": 7078
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Action-Model, Agent, LAM",
+          "description": "LaVague GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 763795053,
+            "language": "Python",
+            "last_commit": "2025-01-21T13:41:48Z",
+            "owner": "lavague-ai",
+            "repo": "LaVague",
+            "stars": 6390
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AGI, Awesome Repo, Survey",
+          "description": "Awesome-LLM-Papers-Toward-AGI GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 742667785,
+            "language": null,
+            "last_commit": "2024-08-22T05:28:33Z",
+            "owner": "shure-dev",
+            "repo": "Awesome-LLM-Papers-Comprehensive-Topics",
+            "stars": 223
+          }
+        }
+      ],
+      "title": "Overview"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-23T22:36:16.064Z",
+    "last_updated": "2026-08-24T14:38:31.467Z",
     "original_repository": "shure-dev/Awesome-LLM-Papers-Comprehensive-Topics",
     "original_repository_id": 742667785,
     "original_repository_sha": "faaa0253df89193a74c7f0ebe87e53e17244c093",
