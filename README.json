@@ -75,7 +75,7 @@
             "last_commit": "2026-08-24T21:24:35Z",
             "owner": "run-llama",
             "repo": "llama_index",
-            "stars": 51849
+            "stars": 51856
           }
         },
         {
@@ -87,10 +87,10 @@
             "archived": false,
             "id": 552661142,
             "language": "Python",
-            "last_commit": "2026-08-24T22:38:02Z",
+            "last_commit": "2026-08-25T03:51:56Z",
             "owner": "langchain-ai",
             "repo": "langchain",
-            "stars": 144911
+            "stars": 144931
           }
         },
         {
@@ -117,10 +117,10 @@
             "archived": false,
             "id": 626805178,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T15:23:22Z",
+            "last_commit": "2026-08-25T06:23:21Z",
             "owner": "langgenius",
             "repo": "dify",
-            "stars": 153388
+            "stars": 153429
           }
         },
         {
@@ -147,10 +147,10 @@
             "archived": false,
             "id": 725205304,
             "language": "Python",
-            "last_commit": "2026-08-24T22:39:26Z",
+            "last_commit": "2026-08-25T06:22:22Z",
             "owner": "unslothai",
             "repo": "unsloth",
-            "stars": 74619
+            "stars": 74651
           }
         },
         {
@@ -360,7 +360,7 @@
             "last_commit": "2026-05-21T09:12:50Z",
             "owner": "tensorchord",
             "repo": "Awesome-LLMOps",
-            "stars": 5919
+            "stars": 5920
           }
         },
         {
@@ -495,7 +495,7 @@
             "last_commit": "2025-07-31T02:38:24Z",
             "owner": "Hannibal046",
             "repo": "Awesome-LLM",
-            "stars": 27281
+            "stars": 27282
           }
         },
         {
@@ -630,7 +630,7 @@
             "last_commit": "2026-05-10T05:03:06Z",
             "owner": "AiHubCN",
             "repo": "Awesome-Chinese-LLM",
-            "stars": 22752
+            "stars": 22751
           }
         },
         {
@@ -660,7 +660,7 @@
             "last_commit": "2026-08-20T03:35:38Z",
             "owner": "openinterpreter",
             "repo": "openinterpreter",
-            "stars": 68137
+            "stars": 68139
           }
         },
         {
@@ -675,7 +675,7 @@
             "last_commit": "2026-07-24T08:01:27Z",
             "owner": "OpenBMB",
             "repo": "ChatDev",
-            "stars": 34118
+            "stars": 34119
           }
         },
         {
@@ -720,7 +720,7 @@
             "last_commit": "2024-11-25T02:51:51Z",
             "owner": "niuzaisheng",
             "repo": "ScreenAgent",
-            "stars": 612
+            "stars": 611
           }
         },
         {
@@ -795,7 +795,7 @@
             "last_commit": "2026-08-21T18:52:45Z",
             "owner": "e2b-dev",
             "repo": "awesome-ai-agents",
-            "stars": 29659
+            "stars": 29662
           }
         },
         {
@@ -840,7 +840,7 @@
             "last_commit": "2026-07-27T00:29:18Z",
             "owner": "zjunlp",
             "repo": "LLMAgentPapers",
-            "stars": 3107
+            "stars": 3108
           }
         },
         {
@@ -897,7 +897,7 @@
             "archived": false,
             "id": 639195966,
             "language": "Python",
-            "last_commit": "2026-08-24T20:45:34Z",
+            "last_commit": "2026-08-25T00:13:19Z",
             "owner": "kyegomez",
             "repo": "swarms",
             "stars": 7078
@@ -915,7 +915,7 @@
             "last_commit": "2025-01-21T13:41:48Z",
             "owner": "lavague-ai",
             "repo": "LaVague",
-            "stars": 6390
+            "stars": 6389
           }
         },
         {
@@ -938,7 +938,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T22:42:19.893Z",
+    "last_updated": "2026-08-25T06:24:29.585Z",
     "original_repository": "shure-dev/Awesome-LLM-Papers-Comprehensive-Topics",
     "original_repository_id": 742667785,
     "original_repository_sha": "faaa0253df89193a74c7f0ebe87e53e17244c093",
