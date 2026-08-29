@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ICLR2026] VideoChat-Flash: Hierarchical Compression for Long-Context Video Modeling",
+            "homepage": null,
             "id": 776899311,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-19T04:27:36Z",
+            "open_issues": 11,
             "owner": "OpenGVLab",
             "repo": "VideoChat-Flash",
-            "stars": 528
+            "stars": 528,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:06:00.133Z"
         },
@@ -26,12 +31,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "【TMM 2025🔥】 Mixture-of-Experts for Large Vision-Language Models",
+            "homepage": "https://arxiv.org/abs/2401.15947",
             "id": 731413021,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-07-15T07:59:33Z",
+            "open_issues": 65,
             "owner": "PKU-YuanGroup",
             "repo": "MoE-LLaVA",
-            "stars": 2322
+            "stars": 2322,
+            "topics": [
+              "large-vision-language-model",
+              "mixture-of-experts",
+              "moe",
+              "multi-modal"
+            ]
           },
           "first_seen": "2026-08-28T06:06:00.133Z"
         },
@@ -42,12 +57,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[TMLR 2024] Efficient Large Language Models: A Survey",
+            "homepage": "https://arxiv.org/abs/2312.03863",
             "id": 629520282,
             "language": null,
+            "license": null,
             "last_commit": "2025-06-23T01:57:02Z",
+            "open_issues": 2,
             "owner": "AIoT-MLSys-Lab",
             "repo": "Efficient-LLMs-Survey",
-            "stars": 1257
+            "stars": 1257,
+            "topics": [
+              "efficient-deep-learning",
+              "generative-ai",
+              "large-language-models",
+              "machine-learning-systems",
+              "survey"
+            ]
           },
           "first_seen": "2026-08-28T06:06:00.133Z"
         },
@@ -58,12 +84,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[NeurIPS 2023] Official implementation of the paper \"Segment Everything Everywhere All at Once\"",
+            "homepage": null,
             "id": 626753204,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-08-19T08:01:54Z",
+            "open_issues": 60,
             "owner": "UX-Decoder",
             "repo": "Segment-Everything-Everywhere-All-At-Once",
-            "stars": 4794
+            "stars": 4794,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:06:00.133Z"
         },
@@ -74,12 +105,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "LlamaIndex is the leading document agent and OCR platform",
+            "homepage": "https://developers.llamaindex.ai",
             "id": 560704231,
             "language": "Python",
-            "last_commit": "2026-08-28T04:01:49Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T02:46:02Z",
+            "open_issues": 670,
             "owner": "run-llama",
             "repo": "llama_index",
-            "stars": 51897
+            "stars": 51909,
+            "topics": [
+              "agents",
+              "application",
+              "data",
+              "fine-tuning",
+              "framework",
+              "llamaindex",
+              "llm",
+              "multi-agents",
+              "rag",
+              "vector-database"
+            ]
           },
           "first_seen": "2026-08-28T06:06:00.133Z"
         },
@@ -90,12 +137,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The agent engineering platform.",
+            "homepage": "https://docs.langchain.com/langchain/",
             "id": 552661142,
             "language": "Python",
-            "last_commit": "2026-08-28T02:45:33Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T23:20:17Z",
+            "open_issues": 431,
             "owner": "langchain-ai",
             "repo": "langchain",
-            "stars": 145162
+            "stars": 145214,
+            "topics": [
+              "agents",
+              "ai",
+              "ai-agents",
+              "anthropic",
+              "chatgpt",
+              "deepagents",
+              "enterprise",
+              "framework",
+              "gemini",
+              "generative-ai",
+              "langchain",
+              "langgraph",
+              "llm",
+              "multiagent",
+              "open-source",
+              "openai",
+              "pydantic",
+              "python",
+              "rag",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T06:06:00.133Z"
         },
@@ -106,12 +179,32 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Private chat with local GPT with document, images, video, etc. 100% private, Apache 2.0. Supports oLLaMa, Mixtral, llama.cpp, and more. Demo: https://gpt.h2o.ai/ https://gpt-docs.h2o.ai/",
+            "homepage": "http://h2o.ai",
             "id": 618613272,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-10-09T23:30:01Z",
+            "open_issues": 328,
             "owner": "h2oai",
             "repo": "h2ogpt",
-            "stars": 11969
+            "stars": 11971,
+            "topics": [
+              "ai",
+              "chatgpt",
+              "embeddings",
+              "fedramp",
+              "generative",
+              "gpt",
+              "gpt4all",
+              "llama2",
+              "llm",
+              "mixtral",
+              "pdf",
+              "private",
+              "privategpt",
+              "vectorstore"
+            ]
           },
           "first_seen": "2026-08-28T06:06:00.133Z"
         },
@@ -122,12 +215,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
+            "homepage": "https://dify.ai",
             "id": 626805178,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T06:01:20Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T03:08:08Z",
+            "open_issues": 977,
             "owner": "langgenius",
             "repo": "dify",
-            "stars": 153713
+            "stars": 153785,
+            "topics": [
+              "agent",
+              "agentic-ai",
+              "agentic-framework",
+              "agentic-workflow",
+              "ai",
+              "automation",
+              "claude",
+              "deepseek",
+              "genai",
+              "gpt",
+              "llm",
+              "low-code",
+              "mcp",
+              "nextjs",
+              "no-code",
+              "openai",
+              "python",
+              "skills",
+              "workflow"
+            ]
           },
           "first_seen": "2026-08-28T06:06:00.133Z"
         },
@@ -138,12 +256,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Instruct-tune LLaMA on consumer hardware",
+            "homepage": null,
             "id": 613591358,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2024-07-29T13:37:49Z",
+            "open_issues": 365,
             "owner": "tloen",
             "repo": "alpaca-lora",
-            "stars": 18906
+            "stars": 18908,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:06:00.133Z"
         },
@@ -154,12 +277,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, FLUX and more.",
+            "homepage": "https://unsloth.ai/docs",
             "id": 725205304,
             "language": "Python",
-            "last_commit": "2026-08-28T06:03:22Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T03:09:05Z",
+            "open_issues": 1386,
             "owner": "unslothai",
             "repo": "unsloth",
-            "stars": 75006
+            "stars": 75082,
+            "topics": [
+              "agent",
+              "ai",
+              "chatgpt",
+              "deepseek",
+              "fine-tuning",
+              "gemma",
+              "image-generation",
+              "llama",
+              "llm",
+              "llms",
+              "openai",
+              "python",
+              "qwen",
+              "reinforcement-learning",
+              "self-hosted",
+              "stable-diffusion",
+              "text-to-speech",
+              "tts",
+              "ui",
+              "unsloth"
+            ]
           },
           "first_seen": "2026-08-28T06:06:00.133Z"
         },
@@ -170,12 +319,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "structured outputs for llms ",
+            "homepage": "https://python.useinstructor.com/",
             "id": 653589102,
             "language": "Python",
-            "last_commit": "2026-08-27T17:23:56Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T02:44:55Z",
+            "open_issues": 39,
             "owner": "567-labs",
             "repo": "instructor",
-            "stars": 13790
+            "stars": 13794,
+            "topics": [
+              "openai",
+              "openai-function-calli",
+              "openai-functions",
+              "pydantic-v2",
+              "python",
+              "validation"
+            ]
           },
           "first_seen": "2026-08-28T06:06:00.133Z"
         },
@@ -186,12 +347,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+            "homepage": null,
             "id": 752957295,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-04-15T07:55:37Z",
+            "open_issues": 44,
             "owner": "deepseek-ai",
             "repo": "DeepSeek-Math",
-            "stars": 3438
+            "stars": 3438,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:06:00.133Z"
         },
@@ -202,12 +368,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A self-hosted, offline, ChatGPT-like chatbot. Powered by Llama 2. 100% private, with no data leaving your device. New: Code Llama support!",
+            "homepage": "https://apps.umbrel.com/app/llama-gpt",
             "id": 669601481,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-04-23T18:56:06Z",
+            "open_issues": 96,
             "owner": "getumbrel",
             "repo": "llama-gpt",
-            "stars": 10940
+            "stars": 10939,
+            "topics": [
+              "ai",
+              "chatgpt",
+              "code-llama",
+              "codellama",
+              "gpt",
+              "gpt-4",
+              "gpt4all",
+              "llama",
+              "llama-2",
+              "llama-cpp",
+              "llama2",
+              "llamacpp",
+              "llm",
+              "localai",
+              "openai",
+              "self-hosted"
+            ]
           },
           "first_seen": "2026-08-28T06:06:00.133Z"
         },
@@ -218,12 +406,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 785446833,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-04-22T22:16:18Z",
+            "open_issues": 62,
             "owner": "openai",
             "repo": "simple-evals",
-            "stars": 4614
+            "stars": 4617,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:06:00.133Z"
         },
@@ -234,12 +427,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Represent embodied skills with natural language, not code",
+            "homepage": null,
             "id": 775238176,
             "language": null,
+            "license": null,
             "last_commit": "2024-03-25T06:38:20Z",
+            "open_issues": 0,
             "owner": "shure-dev",
             "repo": "natural-langauge-as-policies",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "llm",
+              "robot",
+              "robotics"
+            ]
           },
           "first_seen": "2026-08-28T06:06:00.133Z"
         },
@@ -250,12 +452,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "800,000 step-level correctness labels on LLM solutions to MATH problems",
+            "homepage": null,
             "id": 627639944,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-06-01T17:41:14Z",
+            "open_issues": 7,
             "owner": "openai",
             "repo": "prm800k",
-            "stars": 2149
+            "stars": 2149,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:06:00.133Z"
         },
@@ -266,12 +473,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Curated visual catalog of 155+ vision-language model (VLM/MLLM) architectures: papers, diagrams, training recipes, datasets, and a release timeline for multimodal AI agents.",
+            "homepage": null,
             "id": 758120111,
             "language": "Markdown",
+            "license": "CC0-1.0",
             "last_commit": "2026-07-31T21:58:54Z",
+            "open_issues": 0,
             "owner": "gokayfem",
             "repo": "awesome-vlm-architectures",
-            "stars": 1307
+            "stars": 1308,
+            "topics": [
+              "ai-agents",
+              "architecture-diagrams",
+              "arxiv",
+              "awesome",
+              "awesome-list",
+              "computer-vision",
+              "deep-learning",
+              "foundation-models",
+              "large-multimodal-models",
+              "mllm",
+              "model-architecture",
+              "multimodal",
+              "multimodal-ai",
+              "multimodal-llm",
+              "natural-language-processing",
+              "release-timeline",
+              "research-papers",
+              "transformers",
+              "vision-language-models",
+              "vlm"
+            ]
           },
           "first_seen": "2026-08-28T06:06:00.133Z"
         },
@@ -282,12 +515,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The official GitHub page for the survey paper \"A Survey of Large Language Models\".",
+            "homepage": "https://arxiv.org/abs/2303.18223",
             "id": 613731840,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-03-11T09:51:42Z",
+            "open_issues": 29,
             "owner": "RUCAIBox",
             "repo": "LLMSurvey",
-            "stars": 12204
+            "stars": 12205,
+            "topics": [
+              "chain-of-thought",
+              "chatgpt",
+              "in-context-learning",
+              "instruction-tuning",
+              "large-language-models",
+              "llm",
+              "llms",
+              "natural-language-processing",
+              "pre-trained-language-models",
+              "pre-training",
+              "rlhf"
+            ]
           },
           "first_seen": "2026-08-28T06:06:00.133Z"
         },
@@ -298,12 +548,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A comprehensive list of papers using large language/multi-modal models for Robotics/RL, including papers, codes, and related websites",
+            "homepage": null,
             "id": 524119789,
             "language": null,
+            "license": "BSD-3-Clause",
             "last_commit": "2026-07-17T20:28:18Z",
+            "open_issues": 10,
             "owner": "GT-RIPL",
             "repo": "Awesome-LLM-Robotics",
-            "stars": 4458
+            "stars": 4459,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:06:00.133Z"
         },
@@ -314,12 +569,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "From Chain-of-Thought prompting to OpenAI o1 and DeepSeek-R1 🍓",
+            "homepage": null,
             "id": 562071276,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-04-20T00:57:27Z",
+            "open_issues": 26,
             "owner": "atfortes",
             "repo": "Awesome-LLM-Reasoning",
-            "stars": 3676
+            "stars": 3677,
+            "topics": [
+              "awesome",
+              "chain-of-thought",
+              "chatgpt",
+              "cot",
+              "deepseek",
+              "deepseek-r1",
+              "gpt",
+              "gpt-4o",
+              "in-context-learning",
+              "language-models",
+              "mllm",
+              "multimodal",
+              "openai-o1",
+              "papers",
+              "prompt",
+              "prompt-engineering",
+              "reasoning",
+              "strawberry"
+            ]
           },
           "first_seen": "2026-08-28T06:06:00.133Z"
         },
@@ -330,12 +609,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "✨✨Latest Papers and Benchmarks in Reasoning with Foundation Models",
+            "homepage": null,
             "id": 721539172,
             "language": null,
+            "license": "MIT",
             "last_commit": "2025-06-16T10:08:45Z",
+            "open_issues": 6,
             "owner": "reasoning-survey",
             "repo": "Awesome-Reasoning-Foundation-Models",
-            "stars": 656
+            "stars": 656,
+            "topics": [
+              "foundation-models",
+              "llm",
+              "llm-reasoning",
+              "multimodal",
+              "reasoning",
+              "reasoning-agent",
+              "reasoning-language-models"
+            ]
           },
           "first_seen": "2026-08-28T06:06:00.133Z"
         },
@@ -346,12 +638,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of reinforcement learning with human feedback resources (continually updated)",
+            "homepage": null,
             "id": 601100396,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2026-05-20T12:56:15Z",
+            "open_issues": 6,
             "owner": "opendilab",
             "repo": "awesome-RLHF",
-            "stars": 4421
+            "stars": 4422,
+            "topics": [
+              "deep-learning",
+              "deep-reinforcement-learning",
+              "human-feedback",
+              "large-language-models",
+              "reinforcement-learning",
+              "rlhf"
+            ]
           },
           "first_seen": "2026-08-28T06:06:00.133Z"
         },
@@ -362,12 +666,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A curated list of research papers in Vision-Language Navigation (VLN)",
+            "homepage": null,
             "id": 217827601,
             "language": null,
+            "license": "MIT",
             "last_commit": "2024-04-17T08:11:28Z",
+            "open_issues": 5,
             "owner": "daqingliu",
             "repo": "awesome-vln",
-            "stars": 236
+            "stars": 236,
+            "topics": [
+              "arxiv",
+              "awesome-list",
+              "computer-vision",
+              "natural-language-understanding",
+              "papers",
+              "vision-and-language",
+              "vision-and-language-navigation"
+            ]
           },
           "first_seen": "2026-08-28T06:06:00.133Z"
         },
@@ -378,12 +695,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An awesome & curated list of best LLMOps tools for developers",
+            "homepage": null,
             "id": 481805419,
             "language": "Shell",
+            "license": "CC0-1.0",
             "last_commit": "2026-05-21T09:12:50Z",
+            "open_issues": 259,
             "owner": "tensorchord",
             "repo": "Awesome-LLMOps",
-            "stars": 5922
+            "stars": 5922,
+            "topics": [
+              "ai-development-tools",
+              "awesome-list",
+              "llmops",
+              "mlops"
+            ]
           },
           "first_seen": "2026-08-28T06:06:00.133Z"
         },
@@ -394,12 +721,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awesome_Multimodel is a curated GitHub repository that provides a comprehensive collection of resources for Multimodal Large Language Models (MLLM). It covers datasets, tuning techniques, in-context learning, visual reasoning, foundational models, and more. Stay updated with the latest advancement.",
+            "homepage": null,
             "id": 652129018,
             "language": null,
+            "license": null,
             "last_commit": "2026-07-03T11:47:02Z",
+            "open_issues": 2,
             "owner": "Atomic-man007",
             "repo": "Awesome_Multimodel_LLM",
-            "stars": 377
+            "stars": 377,
+            "topics": [
+              "chatgpt",
+              "dataset",
+              "gpt",
+              "llm",
+              "mllm",
+              "multimodel",
+              "nlp",
+              "pretrained-models"
+            ]
           },
           "first_seen": "2026-08-28T06:06:00.133Z"
         },
@@ -410,12 +751,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":sparkles::sparkles:Latest Advances on Multimodal Large Language Models",
+            "homepage": null,
             "id": 642642539,
             "language": null,
+            "license": null,
             "last_commit": "2026-08-27T01:08:08Z",
+            "open_issues": 111,
             "owner": "BradyFU",
             "repo": "Awesome-Multimodal-Large-Language-Models",
-            "stars": 17993
+            "stars": 17994,
+            "topics": [
+              "chain-of-thought",
+              "in-context-learning",
+              "instruction-following",
+              "instruction-tuning",
+              "large-language-models",
+              "large-vision-language-model",
+              "large-vision-language-models",
+              "multi-modality",
+              "multimodal-chain-of-thought",
+              "multimodal-in-context-learning",
+              "multimodal-instruction-tuning",
+              "multimodal-large-language-models",
+              "visual-instruction-tuning"
+            ]
           },
           "first_seen": "2026-08-28T06:06:00.133Z"
         },
@@ -426,12 +786,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Comprehensive Survey of Scientific Large Language Models and Their Applications in Scientific Discovery (EMNLP'24)",
+            "homepage": "https://arxiv.org/abs/2406.10833",
             "id": 739217887,
             "language": null,
+            "license": "MIT",
             "last_commit": "2025-06-21T11:59:38Z",
+            "open_issues": 3,
             "owner": "yuzhimanhua",
             "repo": "Awesome-Scientific-Language-Models",
-            "stars": 664
+            "stars": 664,
+            "topics": [
+              "ai4science",
+              "awesome-resources",
+              "large-language-models",
+              "scientific-text-mining",
+              "survey"
+            ]
           },
           "first_seen": "2026-08-28T06:06:00.133Z"
         },
@@ -442,12 +813,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Recent LLM-based CV and related works. Welcome to comment/contribute!",
+            "homepage": null,
             "id": 612329673,
             "language": null,
+            "license": null,
             "last_commit": "2025-03-08T06:31:18Z",
+            "open_issues": 2,
             "owner": "DirtyHarryLYL",
             "repo": "LLM-in-Vision",
-            "stars": 870
+            "stars": 870,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:06:00.133Z"
         },
@@ -458,12 +834,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Paper list about multimodal and large language models, only used to record papers I read in the daily arxiv for personal needs.",
+            "homepage": null,
             "id": 529954479,
             "language": null,
+            "license": null,
             "last_commit": "2026-05-21T19:17:08Z",
+            "open_issues": 0,
             "owner": "Yangyi-Chen",
             "repo": "Multimodal-AND-Large-Language-Models",
-            "stars": 760
+            "stars": 760,
+            "topics": [
+              "general-purpose-model",
+              "large-language-models",
+              "machine-learning",
+              "multimodal"
+            ]
           },
           "first_seen": "2026-08-28T06:06:00.133Z"
         },
@@ -474,12 +860,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An Awesome Collection for LLM Survey",
+            "homepage": null,
             "id": 693180980,
             "language": null,
+            "license": null,
             "last_commit": "2025-05-25T15:23:26Z",
+            "open_issues": 1,
             "owner": "AiHubCN",
             "repo": "Awesome-LLM-Survey",
-            "stars": 444
+            "stars": 444,
+            "topics": [
+              "awesome-list",
+              "large-language-models",
+              "llm",
+              "nlp",
+              "survey"
+            ]
           },
           "first_seen": "2026-08-28T06:06:00.133Z"
         },
@@ -490,12 +887,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The world's largest GitHub Repository for LLMs + Robotics",
+            "homepage": null,
             "id": 638811415,
             "language": null,
+            "license": "BSD-3-Clause",
             "last_commit": "2024-07-14T15:16:29Z",
+            "open_issues": 4,
             "owner": "jrin771",
             "repo": "Everything-LLMs-And-Robotics",
-            "stars": 849
+            "stars": 849,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:06:00.133Z"
         },
@@ -506,12 +908,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A joint community effort to create one central leaderboard for LLMs.",
+            "homepage": "https://llm-leaderboard.streamlit.app/",
             "id": 637379793,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-08-23T20:09:41Z",
+            "open_issues": 9,
             "owner": "LudwigStumpp",
             "repo": "llm-leaderboard",
-            "stars": 306
+            "stars": 306,
+            "topics": [
+              "leaderboard",
+              "llm",
+              "machine-learning",
+              "nlp"
+            ]
           },
           "first_seen": "2026-08-28T06:06:00.133Z"
         },
@@ -522,12 +934,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awesome-LLM: a curated list of Large Language Model",
+            "homepage": null,
             "id": 603049672,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2025-07-31T02:38:24Z",
+            "open_issues": 443,
             "owner": "Hannibal046",
             "repo": "Awesome-LLM",
-            "stars": 27293
+            "stars": 27298,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:06:00.133Z"
         },
@@ -538,12 +955,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awesome list of Korean Large Language Models.",
+            "homepage": null,
             "id": 678896411,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2023-10-31T10:35:42Z",
+            "open_issues": 2,
             "owner": "NomaDamas",
             "repo": "awesome-korean-llm",
-            "stars": 482
+            "stars": 482,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:06:00.133Z"
         },
@@ -554,12 +976,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "日本語LLMまとめ - Overview of Japanese LLMs",
+            "homepage": "https://llm-jp.github.io/awesome-japanese-llm",
             "id": 664157329,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-22T09:03:54Z",
+            "open_issues": 0,
             "owner": "llm-jp",
             "repo": "awesome-japanese-llm",
-            "stars": 1427
+            "stars": 1427,
+            "topics": [
+              "foundation-models",
+              "generative-ai",
+              "generative-model",
+              "generative-models",
+              "japanese",
+              "japanese-language",
+              "japanese-language-model",
+              "japanese-llm",
+              "language-model",
+              "language-models",
+              "large-language-model",
+              "large-language-models",
+              "llm",
+              "llm-japanese",
+              "llms",
+              "multimodal",
+              "vision-and-language",
+              "vision-language",
+              "vision-language-model"
+            ]
           },
           "first_seen": "2026-08-28T06:06:00.133Z"
         },
@@ -570,12 +1017,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Paper List for In-context Learning 🌷",
+            "homepage": null,
             "id": 581380809,
             "language": null,
+            "license": null,
             "last_commit": "2024-10-08T09:18:01Z",
+            "open_issues": 4,
             "owner": "dqxiu",
             "repo": "ICL_PaperList",
-            "stars": 874
+            "stars": 874,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:06:00.133Z"
         },
@@ -586,12 +1038,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repository lists all papers presented in IROS 2023.",
+            "homepage": null,
             "id": 706392465,
             "language": null,
+            "license": "GPL-3.0",
             "last_commit": "2023-10-17T21:26:48Z",
+            "open_issues": 0,
             "owner": "gonultasbu",
             "repo": "IROS2023PaperList",
-            "stars": 25
+            "stars": 25,
+            "topics": [
+              "deep-learning",
+              "iros",
+              "iros2023",
+              "paper-lists",
+              "robotics"
+            ]
           },
           "first_seen": "2026-08-28T06:06:00.133Z"
         },
@@ -602,12 +1065,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "LLM hallucination paper list",
+            "homepage": null,
             "id": 665353423,
             "language": null,
+            "license": "MIT",
             "last_commit": "2024-03-11T12:49:15Z",
+            "open_issues": 4,
             "owner": "LuckyyySTA",
             "repo": "Awesome-LLM-hallucination",
-            "stars": 338
+            "stars": 338,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:06:00.133Z"
         },
@@ -618,12 +1086,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Reading list for research topics in embodied vision",
+            "homepage": null,
             "id": 277348364,
             "language": null,
+            "license": "MIT",
             "last_commit": "2025-06-13T18:55:49Z",
+            "open_issues": 4,
             "owner": "ChanganVR",
             "repo": "awesome-embodied-vision",
-            "stars": 706
+            "stars": 706,
+            "topics": [
+              "awesome-list",
+              "curated-list",
+              "embodied-vision",
+              "visual-exploration",
+              "visual-navigation",
+              "vln"
+            ]
           },
           "first_seen": "2026-08-28T06:06:00.133Z"
         },
@@ -634,12 +1114,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " A collection of resources and papers on Diffusion Models",
+            "homepage": "https://diff-usion.github.io/Awesome-Diffusion-Models/",
             "id": 407722319,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2024-08-01T07:11:20Z",
+            "open_issues": 27,
             "owner": "diff-usion",
             "repo": "Awesome-Diffusion-Models",
-            "stars": 12364
+            "stars": 12365,
+            "topics": [
+              "artificial-intelligence",
+              "diffusion-models",
+              "generative-model",
+              "machine-learning",
+              "score-based",
+              "score-matching"
+            ]
           },
           "first_seen": "2026-08-28T06:06:00.133Z"
         },
@@ -650,12 +1142,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awesome LLM compression research papers and tools.",
+            "homepage": null,
             "id": 647138126,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-08-27T15:48:21Z",
+            "open_issues": 0,
             "owner": "HuangOwen",
             "repo": "Awesome-LLM-Compression",
-            "stars": 1867
+            "stars": 1867,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:06:00.133Z"
         },
@@ -666,12 +1163,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "整理开源的中文大语言模型，以规模较小、可私有化部署、训练成本较低的模型为主，包括底座模型，垂直领域微调及应用，数据集与教程等。",
+            "homepage": null,
             "id": 643916827,
             "language": null,
+            "license": null,
             "last_commit": "2026-05-10T05:03:06Z",
+            "open_issues": 29,
             "owner": "AiHubCN",
             "repo": "Awesome-Chinese-LLM",
-            "stars": 22752
+            "stars": 22751,
+            "topics": [
+              "awesome-lists",
+              "chatglm",
+              "chinese",
+              "llama",
+              "llm",
+              "nlp"
+            ]
           },
           "first_seen": "2026-08-28T06:06:00.133Z"
         },
@@ -682,12 +1191,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A trend starts from \"Chain of Thought Prompting Elicits Reasoning in Large Language Models\".",
+            "homepage": null,
             "id": 478392650,
             "language": null,
+            "license": null,
             "last_commit": "2023-10-05T04:47:20Z",
+            "open_issues": 0,
             "owner": "Timothyxxx",
             "repo": "Chain-of-ThoughtsPapers",
-            "stars": 2104
+            "stars": 2104,
+            "topics": [
+              "chain-of-thought",
+              "codex",
+              "gpt-3",
+              "in-context-learning",
+              "large-language-models",
+              "palm",
+              "prompt-learning"
+            ]
           },
           "first_seen": "2026-08-28T06:06:00.133Z"
         },
@@ -698,12 +1220,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A coding agent for open models like Kimi K3",
+            "homepage": "http://openinterpreter.com/",
             "id": 666299222,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-20T03:35:38Z",
+            "open_issues": 8,
             "owner": "openinterpreter",
             "repo": "openinterpreter",
-            "stars": 68173
+            "stars": 68176,
+            "topics": [
+              "acp",
+              "coding-agent",
+              "deepseek",
+              "kimi",
+              "qwen",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-28T06:06:00.133Z"
         },
@@ -714,12 +1248,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration",
+            "homepage": "https://arxiv.org/abs/2307.07924",
             "id": 683892956,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-24T08:01:27Z",
+            "open_issues": 68,
             "owner": "OpenBMB",
             "repo": "ChatDev",
-            "stars": 34138
+            "stars": 34141,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:06:00.133Z"
         },
@@ -730,12 +1269,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 674158658,
             "language": null,
+            "license": null,
             "last_commit": "2025-02-20T00:59:30Z",
+            "open_issues": 16,
             "owner": "Paitesanshi",
             "repo": "LLM-Agent-Survey",
-            "stars": 2910
+            "stars": 2910,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:06:00.133Z"
         },
@@ -746,12 +1290,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official implementation for \"You Only Look at Screens: Multimodal Chain-of-Action Agents\" (Findings of ACL 2024)",
+            "homepage": "https://arxiv.org/abs/2309.11436",
             "id": 694036243,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-07-16T04:46:04Z",
+            "open_issues": 10,
             "owner": "cooelf",
             "repo": "Auto-GUI",
-            "stars": 263
+            "stars": 263,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:06:00.133Z"
         },
@@ -762,12 +1311,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ScreenAgent: A Computer Control Agent Driven by Visual Language Large Model (IJCAI-24)",
+            "homepage": "https://arxiv.org/abs/2402.07945",
             "id": 743418723,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-11-25T02:51:51Z",
+            "open_issues": 21,
             "owner": "niuzaisheng",
             "repo": "ScreenAgent",
-            "stars": 612
+            "stars": 612,
+            "topics": [
+              "agent",
+              "ai",
+              "llm",
+              "vlm"
+            ]
           },
           "first_seen": "2026-08-28T06:06:00.133Z"
         },
@@ -778,12 +1337,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[COLM 2024] OpenAgents: An Open Platform for Language Agents in the Wild",
+            "homepage": "https://arxiv.org/abs/2310.10634",
             "id": 676028871,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-11-18T09:39:29Z",
+            "open_issues": 15,
             "owner": "xlang-ai",
             "repo": "OpenAgents",
-            "stars": 4859
+            "stars": 4859,
+            "topics": [
+              "agent",
+              "assistant-chat-bots",
+              "code-generation",
+              "executable-langauge-grounding",
+              "gpt",
+              "hacktoberfest",
+              "language-model",
+              "language-model-agent",
+              "llm",
+              "semantic-parsing",
+              "tool-learning",
+              "ui"
+            ]
           },
           "first_seen": "2026-08-28T06:06:00.133Z"
         },
@@ -794,12 +1371,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is a curated list of \"Embodied AI or robot with Large Language Models\" research. Watch this repository for the latest updates! 🔥",
+            "homepage": null,
             "id": 668159220,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2026-08-14T13:55:45Z",
+            "open_issues": 2,
             "owner": "zchoi",
             "repo": "Awesome-Embodied-Robotics-and-Agent",
-            "stars": 1860
+            "stars": 1860,
+            "topics": [
+              "agent",
+              "awesome",
+              "embodied-agent",
+              "embodied-ai",
+              "large-language-model",
+              "manipulator-robotics",
+              "navigation",
+              "planning-algorithms",
+              "scene-understanding"
+            ]
           },
           "first_seen": "2026-08-28T06:06:00.133Z"
         },
@@ -810,12 +1402,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "List of language agents based on paper \"Cognitive Architectures for Language Agents\"",
+            "homepage": "https://arxiv.org/abs/2309.02427",
             "id": 661942912,
             "language": "TeX",
+            "license": null,
             "last_commit": "2025-01-16T19:58:19Z",
+            "open_issues": 8,
             "owner": "ysymyth",
             "repo": "awesome-language-agents",
-            "stars": 1252
+            "stars": 1253,
+            "topics": [
+              "artificial-intelligence",
+              "awesome-list",
+              "language-agent",
+              "language-model",
+              "llm",
+              "natural-language-processing"
+            ]
           },
           "first_seen": "2026-08-28T06:06:00.133Z"
         },
@@ -826,12 +1430,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Paper collection on building and evaluating language model agents via executable language grounding",
+            "homepage": "https://www.xlang.ai/project",
             "id": 663989514,
             "language": null,
+            "license": null,
             "last_commit": "2024-04-29T04:23:11Z",
+            "open_issues": 0,
             "owner": "xlang-ai",
             "repo": "xlang-paper-reading",
-            "stars": 365
+            "stars": 365,
+            "topics": [
+              "agent",
+              "code-generation",
+              "complex-reasoning",
+              "language-agent",
+              "large-language-models",
+              "llm-robotics",
+              "neural-symbolic",
+              "reinforcement-learning",
+              "tool-use",
+              "web-grounding"
+            ]
           },
           "first_seen": "2026-08-28T06:06:00.133Z"
         },
@@ -842,12 +1462,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A list of AI autonomous agents",
+            "homepage": "https://docs.e2b.dev/?utm_source=github&utm_medium=referral&utm_campaign=repo_website&utm_content=awesome-ai-agents",
             "id": 655459367,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2026-08-21T18:52:45Z",
+            "open_issues": 960,
             "owner": "e2b-dev",
             "repo": "awesome-ai-agents",
-            "stars": 29718
+            "stars": 29732,
+            "topics": [
+              "agent",
+              "ai",
+              "artificial-intelligence",
+              "autogpt",
+              "autonomous-agents",
+              "awesome",
+              "babyagi",
+              "copilot",
+              "gpt",
+              "gpt-4",
+              "gpt-engineer",
+              "openai",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T06:06:00.133Z"
         },
@@ -858,12 +1497,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Autonomous Agents (LLMs) research papers. Updated Daily.",
+            "homepage": null,
             "id": 692466689,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-06-24T17:03:27Z",
+            "open_issues": 2,
             "owner": "tmgthb",
             "repo": "Autonomous-Agents",
-            "stars": 1372
+            "stars": 1372,
+            "topics": [
+              "agent",
+              "agent-context",
+              "agent-harness",
+              "agentic",
+              "agentic-ai",
+              "agents",
+              "ai",
+              "ai-agents",
+              "aiagent",
+              "aiagents",
+              "autonomous-agents",
+              "cognitive-agents",
+              "computer-use-agent",
+              "embodied-agent",
+              "generalist-agent",
+              "language-agent",
+              "llm",
+              "llm-agents",
+              "llmagents",
+              "research-paper"
+            ]
           },
           "first_seen": "2026-08-28T06:06:00.133Z"
         },
@@ -874,12 +1539,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 749300380,
             "language": null,
+            "license": null,
             "last_commit": "2024-09-25T12:56:24Z",
+            "open_issues": 3,
             "owner": "jun0wanan",
             "repo": "awesome-large-multimodal-agents",
-            "stars": 497
+            "stars": 497,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:06:00.133Z"
         },
@@ -890,12 +1560,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Must-read Papers on LLM Agents.",
+            "homepage": null,
             "id": 642759375,
             "language": null,
+            "license": null,
             "last_commit": "2026-07-27T00:29:18Z",
+            "open_issues": 1,
             "owner": "zjunlp",
             "repo": "LLMAgentPapers",
-            "stars": 3110
+            "stars": 3110,
+            "topics": [
+              "agent",
+              "agents",
+              "awsome-list",
+              "environment",
+              "in-context-learning",
+              "instruction-following",
+              "interactive",
+              "large-language-models",
+              "llm",
+              "multiagent-systems",
+              "natural-language-processing",
+              "nlp",
+              "paper-list",
+              "prompt",
+              "review",
+              "survey",
+              "surveys"
+            ]
           },
           "first_seen": "2026-08-28T06:06:00.133Z"
         },
@@ -906,12 +1599,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awesome things about LLM-powered agents. Papers / Repos / Blogs / ...",
+            "homepage": null,
             "id": 670475494,
             "language": null,
+            "license": "MIT",
             "last_commit": "2025-04-30T03:42:08Z",
+            "open_issues": 72,
             "owner": "hyp1231",
             "repo": "awesome-llm-powered-agent",
-            "stars": 2255
+            "stars": 2255,
+            "topics": [
+              "awesome-list",
+              "chatgpt",
+              "embodied-agent",
+              "embodied-ai",
+              "foundation-model",
+              "foundation-models",
+              "generative-agents",
+              "generative-ai",
+              "generative-model",
+              "generative-models",
+              "gpt-4",
+              "large-language-model",
+              "large-language-models",
+              "llm",
+              "llm-powered-agents",
+              "llms"
+            ]
           },
           "first_seen": "2026-08-28T06:06:00.133Z"
         },
@@ -922,12 +1637,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An Open-source Framework for Data-centric, Self-evolving Autonomous Language Agents",
+            "homepage": null,
             "id": 667645956,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-09-26T03:12:53Z",
+            "open_issues": 46,
             "owner": "aiwaves-cn",
             "repo": "agents",
-            "stars": 5959
+            "stars": 5959,
+            "topics": [
+              "autonomous-agents",
+              "language-model",
+              "llm"
+            ]
           },
           "first_seen": "2026-08-28T06:06:00.133Z"
         },
@@ -938,12 +1662,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[IJCAI 2024] Generate different roles for GPTs to form a collaborative entity for complex tasks.",
+            "homepage": "https://huggingface.co/spaces/LinkSoul/AutoAgents",
             "id": 681168020,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-09-09T21:06:56Z",
+            "open_issues": 26,
             "owner": "OWD-AI",
             "repo": "AutoAgents",
-            "stars": 1493
+            "stars": 1493,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:06:00.133Z"
         },
@@ -954,12 +1683,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Enterprise-Grade Multi-Agent Orchestration Framework. Website: https://swarms.ai",
+            "homepage": "https://docs.swarms.world",
             "id": 639195966,
             "language": "Python",
-            "last_commit": "2026-08-27T22:52:37Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T22:57:21Z",
+            "open_issues": 165,
             "owner": "kyegomez",
             "repo": "swarms",
-            "stars": 7098
+            "stars": 7102,
+            "topics": [
+              "agentic-ai",
+              "agentic-workflow",
+              "agents",
+              "ai",
+              "artificial-intelligence",
+              "chatgpt",
+              "claude-code",
+              "gpt4all",
+              "huggingface",
+              "langchain",
+              "langchain-python",
+              "machine-learning",
+              "multi-agent-systems",
+              "prompt-engineering",
+              "prompt-toolkit",
+              "prompting",
+              "swarms",
+              "tree-of-thoughts"
+            ]
           },
           "first_seen": "2026-08-28T06:06:00.133Z"
         },
@@ -970,12 +1723,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Large Action Model framework to develop AI Web Agents",
+            "homepage": "https://docs.lavague.ai/en/latest/",
             "id": 763795053,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-01-21T13:41:48Z",
+            "open_issues": 104,
             "owner": "lavague-ai",
             "repo": "LaVague",
-            "stars": 6389
+            "stars": 6389,
+            "topics": [
+              "ai",
+              "browser",
+              "large-action-model",
+              "llm",
+              "oss",
+              "rag"
+            ]
           },
           "first_seen": "2026-08-28T06:06:00.133Z"
         },
@@ -986,12 +1751,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awesome LLM Papers and repos on very comprehensive topics.",
+            "homepage": "https://shorturl.at/bmuwC",
             "id": 742667785,
             "language": null,
+            "license": null,
             "last_commit": "2024-08-22T05:28:33Z",
+            "open_issues": 4,
             "owner": "shure-dev",
             "repo": "Awesome-LLM-Papers-Comprehensive-Topics",
-            "stars": 223
+            "stars": 223,
+            "topics": [
+              "agent",
+              "agi",
+              "awesome-list",
+              "chainofthought",
+              "chatgpt",
+              "instruction-tuning",
+              "llm",
+              "llm-agent",
+              "multimodal",
+              "papers",
+              "prompt-engineering",
+              "rag",
+              "reasoning",
+              "reinforcement-learning",
+              "robot",
+              "robotics",
+              "survey",
+              "vlm",
+              "vqa",
+              "zero-shot"
+            ]
           },
           "first_seen": "2026-08-28T06:06:00.133Z"
         }
@@ -1000,15 +1791,41 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T06:06:00.133Z",
+    "last_updated": "2026-08-29T03:42:34.548Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Awesome LLM Papers and repos on very comprehensive topics.",
+      "homepage": "https://shorturl.at/bmuwC",
       "id": 742667785,
       "language": null,
+      "license": null,
       "last_commit": "2024-08-22T05:28:33Z",
+      "open_issues": 4,
       "owner": "shure-dev",
       "repo": "Awesome-LLM-Papers-Comprehensive-Topics",
-      "stars": 223
+      "stars": 223,
+      "topics": [
+        "agent",
+        "agi",
+        "awesome-list",
+        "chainofthought",
+        "chatgpt",
+        "instruction-tuning",
+        "llm",
+        "llm-agent",
+        "multimodal",
+        "papers",
+        "prompt-engineering",
+        "rag",
+        "reasoning",
+        "reinforcement-learning",
+        "robot",
+        "robotics",
+        "survey",
+        "vlm",
+        "vqa",
+        "zero-shot"
+      ]
     },
     "original_repository_sha": "faaa0253df89193a74c7f0ebe87e53e17244c093",
     "enhanced_repository": "enhansome/enhansome-Awesome-LLM-Papers-Comprehensive-Topics",
