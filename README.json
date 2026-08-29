@@ -110,7 +110,7 @@
             "id": 560704231,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-08-29T02:46:02Z",
+            "last_commit": "2026-08-29T03:43:47Z",
             "open_issues": 670,
             "owner": "run-llama",
             "repo": "llama_index",
@@ -146,7 +146,7 @@
             "open_issues": 431,
             "owner": "langchain-ai",
             "repo": "langchain",
-            "stars": 145214,
+            "stars": 145216,
             "topics": [
               "agents",
               "ai",
@@ -224,7 +224,7 @@
             "open_issues": 977,
             "owner": "langgenius",
             "repo": "dify",
-            "stars": 153785,
+            "stars": 153789,
             "topics": [
               "agent",
               "agentic-ai",
@@ -282,11 +282,11 @@
             "id": 725205304,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-29T03:09:05Z",
-            "open_issues": 1386,
+            "last_commit": "2026-08-29T04:48:01Z",
+            "open_issues": 1385,
             "owner": "unslothai",
             "repo": "unsloth",
-            "stars": 75082,
+            "stars": 75085,
             "topics": [
               "agent",
               "ai",
@@ -328,7 +328,7 @@
             "open_issues": 39,
             "owner": "567-labs",
             "repo": "instructor",
-            "stars": 13794,
+            "stars": 13795,
             "topics": [
               "openai",
               "openai-function-calli",
@@ -575,10 +575,10 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-04-20T00:57:27Z",
-            "open_issues": 26,
+            "open_issues": 27,
             "owner": "atfortes",
             "repo": "Awesome-LLM-Reasoning",
-            "stars": 3677,
+            "stars": 3678,
             "topics": [
               "awesome",
               "chain-of-thought",
@@ -943,7 +943,7 @@
             "open_issues": 443,
             "owner": "Hannibal046",
             "repo": "Awesome-LLM",
-            "stars": 27298,
+            "stars": 27297,
             "topics": []
           },
           "first_seen": "2026-08-28T06:06:00.133Z"
@@ -1229,7 +1229,7 @@
             "open_issues": 8,
             "owner": "openinterpreter",
             "repo": "openinterpreter",
-            "stars": 68176,
+            "stars": 68177,
             "topics": [
               "acp",
               "coding-agent",
@@ -1257,7 +1257,7 @@
             "open_issues": 68,
             "owner": "OpenBMB",
             "repo": "ChatDev",
-            "stars": 34141,
+            "stars": 34142,
             "topics": []
           },
           "first_seen": "2026-08-28T06:06:00.133Z"
@@ -1791,7 +1791,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T03:42:34.548Z",
+    "last_updated": "2026-08-29T04:48:59.050Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome LLM Papers and repos on very comprehensive topics.",
