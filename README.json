@@ -93,7 +93,7 @@
             "open_issues": 60,
             "owner": "UX-Decoder",
             "repo": "Segment-Everything-Everywhere-All-At-Once",
-            "stars": 4787,
+            "stars": 4788,
             "topics": []
           },
           "first_seen": "2026-08-28T06:06:00.133Z"
@@ -111,10 +111,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-26T21:25:10Z",
-            "open_issues": 1148,
+            "open_issues": 1157,
             "owner": "run-llama",
             "repo": "llama_index",
-            "stars": 52751,
+            "stars": 52764,
             "topics": [
               "agents",
               "application",
@@ -142,11 +142,11 @@
             "id": 552661142,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-31T01:07:22Z",
-            "open_issues": 700,
+            "last_commit": "2026-10-31T15:17:58Z",
+            "open_issues": 707,
             "owner": "langchain-ai",
             "repo": "langchain",
-            "stars": 148741,
+            "stars": 148782,
             "topics": [
               "agents",
               "ai",
@@ -220,11 +220,11 @@
             "id": 626805178,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-31T00:12:16Z",
-            "open_issues": 1142,
+            "last_commit": "2026-10-31T19:49:43Z",
+            "open_issues": 1167,
             "owner": "langgenius",
             "repo": "dify",
-            "stars": 160031,
+            "stars": 160110,
             "topics": [
               "agent",
               "agentic-ai",
@@ -265,7 +265,7 @@
             "open_issues": 364,
             "owner": "tloen",
             "repo": "alpaca-lora",
-            "stars": 18889,
+            "stars": 18888,
             "topics": []
           },
           "first_seen": "2026-08-28T06:06:00.133Z"
@@ -282,11 +282,11 @@
             "id": 725205304,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-31T01:33:29Z",
-            "open_issues": 499,
+            "last_commit": "2026-11-01T01:03:40Z",
+            "open_issues": 571,
             "owner": "unslothai",
             "repo": "unsloth",
-            "stars": 78826,
+            "stars": 78879,
             "topics": [
               "agent",
               "ai",
@@ -325,10 +325,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-26T22:01:02Z",
-            "open_issues": 229,
+            "open_issues": 231,
             "owner": "567-labs",
             "repo": "instructor",
-            "stars": 14081,
+            "stars": 14085,
             "topics": [
               "openai",
               "openai-function-calli",
@@ -524,7 +524,7 @@
             "open_issues": 30,
             "owner": "RUCAIBox",
             "repo": "LLMSurvey",
-            "stars": 12224,
+            "stars": 12228,
             "topics": [
               "chain-of-thought",
               "chatgpt",
@@ -554,10 +554,10 @@
             "language": null,
             "license": "BSD-3-Clause",
             "last_commit": "2026-10-29T04:41:10Z",
-            "open_issues": 7,
+            "open_issues": 8,
             "owner": "GT-RIPL",
             "repo": "Awesome-LLM-Robotics",
-            "stars": 4495,
+            "stars": 4496,
             "topics": []
           },
           "first_seen": "2026-08-28T06:06:00.133Z"
@@ -578,7 +578,7 @@
             "open_issues": 29,
             "owner": "atfortes",
             "repo": "Awesome-LLM-Reasoning",
-            "stars": 3703,
+            "stars": 3705,
             "topics": [
               "awesome",
               "chain-of-thought",
@@ -701,7 +701,7 @@
             "language": "Shell",
             "license": "CC0-1.0",
             "last_commit": "2026-10-16T06:34:42Z",
-            "open_issues": 396,
+            "open_issues": 399,
             "owner": "tensorchord",
             "repo": "Awesome-LLMOps",
             "stars": 5967,
@@ -757,7 +757,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-10-29T06:10:45Z",
-            "open_issues": 117,
+            "open_issues": 118,
             "owner": "BradyFU",
             "repo": "Awesome-Multimodal-Large-Language-Models",
             "stars": 18069,
@@ -943,7 +943,7 @@
             "open_issues": 491,
             "owner": "Hannibal046",
             "repo": "Awesome-LLM",
-            "stars": 27464,
+            "stars": 27466,
             "topics": []
           },
           "first_seen": "2026-08-28T06:06:00.133Z"
@@ -1123,7 +1123,7 @@
             "open_issues": 32,
             "owner": "diff-usion",
             "repo": "Awesome-Diffusion-Models",
-            "stars": 12381,
+            "stars": 12382,
             "topics": [
               "artificial-intelligence",
               "diffusion-models",
@@ -1148,7 +1148,7 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-10-27T06:05:37Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "HuangOwen",
             "repo": "Awesome-LLM-Compression",
             "stars": 1890,
@@ -1225,11 +1225,11 @@
             "id": 666299222,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-11T00:56:06Z",
+            "last_commit": "2026-10-31T12:09:19Z",
             "open_issues": 27,
             "owner": "openinterpreter",
             "repo": "openinterpreter",
-            "stars": 68747,
+            "stars": 68760,
             "topics": [
               "acp",
               "coding-agent",
@@ -1255,10 +1255,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-30T12:36:43Z",
-            "open_issues": 94,
+            "open_issues": 97,
             "owner": "OpenBMB",
             "repo": "ChatDev",
-            "stars": 34627,
+            "stars": 34633,
             "topics": []
           },
           "first_seen": "2026-08-28T06:06:00.133Z"
@@ -1321,7 +1321,7 @@
             "open_issues": 21,
             "owner": "niuzaisheng",
             "repo": "ScreenAgent",
-            "stars": 616,
+            "stars": 615,
             "topics": [
               "agent",
               "ai",
@@ -1347,7 +1347,7 @@
             "open_issues": 17,
             "owner": "xlang-ai",
             "repo": "OpenAgents",
-            "stars": 4867,
+            "stars": 4869,
             "topics": [
               "agent",
               "assistant-chat-bots",
@@ -1469,10 +1469,10 @@
             "language": null,
             "license": "NOASSERTION",
             "last_commit": "2026-08-21T18:52:45Z",
-            "open_issues": 1240,
+            "open_issues": 1243,
             "owner": "e2b-dev",
             "repo": "awesome-ai-agents",
-            "stars": 30724,
+            "stars": 30733,
             "topics": [
               "agent",
               "ai",
@@ -1570,7 +1570,7 @@
             "open_issues": 0,
             "owner": "zjunlp",
             "repo": "LLMAgentPapers",
-            "stars": 3141,
+            "stars": 3142,
             "topics": [
               "agent",
               "agents",
@@ -1672,7 +1672,7 @@
             "open_issues": 26,
             "owner": "OWD-AI",
             "repo": "AutoAgents",
-            "stars": 1495,
+            "stars": 1496,
             "topics": []
           },
           "first_seen": "2026-08-28T06:06:00.133Z"
@@ -1689,11 +1689,11 @@
             "id": 639195966,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-31T00:54:02Z",
-            "open_issues": 434,
+            "last_commit": "2026-11-01T00:44:12Z",
+            "open_issues": 426,
             "owner": "kyegomez",
             "repo": "swarms",
-            "stars": 7334,
+            "stars": 7338,
             "topics": [
               "agentic-ai",
               "agentic-workflow",
@@ -1733,7 +1733,7 @@
             "open_issues": 106,
             "owner": "lavague-ai",
             "repo": "LaVague",
-            "stars": 6393,
+            "stars": 6395,
             "topics": [
               "ai",
               "browser",
@@ -1792,7 +1792,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T01:34:31.286Z",
+    "last_updated": "2026-11-01T01:07:09.363Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome LLM Papers and repos on very comprehensive topics.",
